@@ -1,171 +1,494 @@
 {
-    "dch": [
+    "data": [
         {
             "sno": "1",
-            "district": "Angul",
-            "name": "Covid Hospital, Anugul- Mahanadi Medical College, Talcher"
+            "district": "DODA",
+            "name": "Trauma Hospital Khellani"
         },
         {
             "sno": "2",
-            "district": "Bolangir",
-            "name": "Covid Hospital, Bolangir -KISS\r\nCampus"
+            "district": "DODA",
+            "name": "CHC Thathri"
         },
         {
             "sno": "3",
-            "district": "Balasore",
-            "name": "Covid Hospital, Balasore- Jyoti\r\nHospital"
+            "district": "DODA",
+            "name": "CHC Gandoh"
         },
         {
             "sno": "4",
-            "district": "Bargarh",
-            "name": "Covid Hospital, Bargarh- MCH\r\nBuilding, DHH Bargarh"
+            "district": "DODA",
+            "name": "SDH Bhaderwah"
         },
         {
             "sno": "5",
-            "district": "Bhadrak",
-            "name": "Covid Hospital, Bhadrak- Salandi\r\nHospital"
+            "district": "DODA",
+            "name": "Old SDH Bhaderwah"
         },
         {
             "sno": "6",
-            "district": "Cuttack",
-            "name": "Covid Hospital, Cuttack- Ashwini\r\nHospital"
+            "district": "DODA",
+            "name": "Gujjar and Bhakerwal Boys Hostel, Doda"
         },
         {
             "sno": "7",
-            "district": "Dhenkanal",
-            "name": "Covid Hospital- Dhenkanal, Old\r\nDHH, Dhenkanal"
+            "district": "DODA",
+            "name": "Gujjar and Bhakerwal Girls Hostel, Doda"
         },
         {
             "sno": "8",
-            "district": "Ganjam",
-            "name": "Covid Hospital, Ganjam- TATA\r\nMedica"
+            "district": "DODA",
+            "name": "Girls Hostel, Bella"
         },
         {
             "sno": "9",
-            "district": "Gajapati",
-            "name": "Covid Hospital, Gajapati, Centurion University Health Centre"
+            "district": "DODA",
+            "name": "PHC Changa"
         },
         {
             "sno": "10",
-            "district": "Jajapur",
-            "name": "Covid Hospital,  Jajapur- Tata\r\nHospital, Duburi"
+            "district": "DODA",
+            "name": "PHC Bharat"
         },
         {
             "sno": "11",
-            "district": "Jagatsinghpur",
-            "name": "Covid Hospital, Jagatsinghpur-Biju\r\nJatri Nivas"
+            "district": "DODA",
+            "name": "PHC Malanoo"
         },
         {
             "sno": "12",
-            "district": "Kendrapara",
-            "name": "Covid Hospital, Kendrapara - Government Polytechnic Hostel"
+            "district": "DODA",
+            "name": "PHC Bella"
         },
         {
             "sno": "13",
-            "district": "Koraput",
-            "name": "Covid Hospital,Koraput- SDH,\r\nJeypore"
+            "district": "JAMMU",
+            "name": "Private Nursing Homes"
         },
         {
             "sno": "14",
-            "district": "Keonjhar",
-            "name": "Covid Hospital, , Keonjhar- Tata\r\nHospital, JODA"
+            "district": "JAMMU",
+            "name": "Railway Coaches, Railway Station, Jammu"
         },
         {
             "sno": "15",
-            "district": "Kandhamal",
-            "name": "Covid Hospital,  Kandhamal- GNM\r\nCentre,  Kandhamal"
+            "district": "JAMMU",
+            "name": "A.P.S. Domana"
         },
         {
             "sno": "16",
-            "district": "Kalahandi",
-            "name": "Covid Hospital, Kalahandi- Govt\r\nEngineering College, Kalahandi"
+            "district": "JAMMU",
+            "name": "Yatri Niwas Bhawan, Bhagwati Nagar"
         },
         {
             "sno": "17",
-            "district": "Khurda",
-            "name": "Covid Hospital, Khurda- Kalinga Institute of Medical Sciences,\r\nBhubaneswar"
+            "district": "JAMMU",
+            "name": "Saraswati Dham, Railway Road, Jammu"
         },
         {
             "sno": "18",
-            "district": "Khurda",
-            "name": "Covid Hospital, Khurda-SUM\r\nHospital, IMS, Bhubaneswar"
+            "district": "JAMMU",
+            "name": "SDH RS Pura"
         },
         {
             "sno": "19",
-            "district": "Jharsuguda",
-            "name": "Covid Hospital, Jharsuguda- Old\r\nDHH Building"
+            "district": "JAMMU",
+            "name": "G N M School Akhnoor"
         },
         {
             "sno": "20",
-            "district": "Malkangiri",
-            "name": "Covid Hospital, Malkangiri, Old\r\nDHH, Malkangiri"
+            "district": "JAMMU",
+            "name": "SDH Bishnah"
         },
         {
             "sno": "21",
-            "district": "Mayurbhanj",
-            "name": "Covid Hospital, Mayurbhanj-Kiss\r\nCampus"
+            "district": "JAMMU",
+            "name": "Vaishnavi Dham"
         },
         {
             "sno": "22",
-            "district": "Nayagarh",
-            "name": "Covid hospital, Nayagarh - Chandpur TB Hospital, Nayagarh"
+            "district": "JAMMU",
+            "name": "Psychiatry Diseases Hospital"
         },
         {
             "sno": "23",
-            "district": "Centre",
-            "name": "Covid Health Centre, Nabrangpur- BEd College Nabrangpur"
+            "district": "JAMMU",
+            "name": "Chowk"
         },
         {
             "sno": "24",
-            "district": "Nuapada",
-            "name": "Covid Hospital,Nuapada"
+            "district": "JAMMU",
+            "name": "Indoor stadium Bhagwati Nagar, Jammu"
         },
         {
             "sno": "25",
-            "district": "Sambalpur",
-            "name": "Covid Hospital- DHH Sambalpur"
+            "district": "KATHUA",
+            "name": "Sub District Hospital Basohli"
         },
         {
             "sno": "26",
-            "district": "Sundargarh",
-            "name": "Covid hospital, Sundargarh- Hitech Medical College & Hospital,\r\nRourkela,"
-        }
-    ],
-    "dchc": [
-        {
-            "sno": "1",
-            "district": "Puri",
-            "name": "Covid Health Centre, Puri- IDH,\r\nPuri"
+            "district": "KATHUA",
+            "name": "Govt. Polytechnic College"
         },
         {
-            "sno": "2",
-            "district": "Boudh",
-            "name": "Covid Health Centre- Boudh, Old\r\nJail Campus, Boudh"
+            "sno": "27",
+            "district": "KATHUA",
+            "name": "Bhagat Kabir College"
         },
         {
-            "sno": "3",
-            "district": "Deogarh",
-            "name": "Covid Health Centre, Deogarh-Govt Polytechnic College, Deogarh"
+            "sno": "28",
+            "district": "KATHUA",
+            "name": "Sub District Hospital Hiranagar"
         },
         {
-            "sno": "4",
-            "district": "Rayagada",
-            "name": "Covid Health Centre, Rayagada- ESI\r\nHospital, Rayagada"
+            "sno": "29",
+            "district": "KATHUA",
+            "name": "Sub District Hospital Parole"
         },
         {
-            "sno": "5",
-            "district": "Puri",
-            "name": "Covid Health Centre, Puri-\r\nGopabandhu Ayurvedic Medical College, Puri"
+            "sno": "30",
+            "district": "KATHUA",
+            "name": "Engineering College Janglote"
         },
         {
-            "sno": "6",
-            "district": "Sonepur",
-            "name": "Covid Health Centre, Sonepur-\r\nGovernment ITI , Sonepur"
+            "sno": "31",
+            "district": "KATHUA",
+            "name": "IC Indoor StatidumBillawar"
         },
         {
-            "sno": "7",
-            "district": "Sundargarh",
-            "name": "Covid Health Centre, Sundergarh- NTPC MCH, Sundergaarh"
+            "sno": "32",
+            "district": "KATHUA",
+            "name": "University Campus"
+        },
+        {
+            "sno": "33",
+            "district": "KISHTWAR",
+            "name": "District Hospital Kishtwar"
+        },
+        {
+            "sno": "34",
+            "district": "KISHTWAR",
+            "name": "University campus Kishtwar"
+        },
+        {
+            "sno": "35",
+            "district": "KISHTWAR",
+            "name": "NHPC Hospital Kishtwar"
+        },
+        {
+            "sno": "36",
+            "district": "KISHTWAR",
+            "name": "Kendriya Vidalya Kishtwar"
+        },
+        {
+            "sno": "37",
+            "district": "KISHTWAR",
+            "name": "Girls Higher secondary school Kishtwar"
+        },
+        {
+            "sno": "38",
+            "district": "KISHTWAR",
+            "name": "Girls hostel Chatroo"
+        },
+        {
+            "sno": "39",
+            "district": "KISHTWAR",
+            "name": "Girls hostel sarthal"
+        },
+        {
+            "sno": "40",
+            "district": "KISHTWAR",
+            "name": "GVK Quarters Drabshala"
+        },
+        {
+            "sno": "41",
+            "district": "KISHTWAR",
+            "name": "Girls Hostel Paddar"
+        },
+        {
+            "sno": "42",
+            "district": "KISHTWAR",
+            "name": "Higher secondary School Afti"
+        },
+        {
+            "sno": "43",
+            "district": "POONCH",
+            "name": "Gujjar &Bakarwal Boys Hostel Poonch"
+        },
+        {
+            "sno": "44",
+            "district": "POONCH",
+            "name": "NTPHC Nangali Sahib"
+        },
+        {
+            "sno": "45",
+            "district": "POONCH",
+            "name": "DH Poonch"
+        },
+        {
+            "sno": "46",
+            "district": "POONCH",
+            "name": "CHC Surankote"
+        },
+        {
+            "sno": "47",
+            "district": "POONCH",
+            "name": "Govt HSS Girls Mendhar"
+        },
+        {
+            "sno": "48",
+            "district": "POONCH",
+            "name": "Gujjar &Bakarwal Girls Hostel Banwat"
+        },
+        {
+            "sno": "49",
+            "district": "POONCH",
+            "name": "New block Mendhar"
+        },
+        {
+            "sno": "50",
+            "district": "POONCH",
+            "name": "TRC Surankote"
+        },
+        {
+            "sno": "51",
+            "district": "RAMBAN",
+            "name": "M/S Khanday Hospital Banihal"
+        },
+        {
+            "sno": "52",
+            "district": "RAMBAN",
+            "name": "District Hospital Ramban"
+        },
+        {
+            "sno": "53",
+            "district": "RAMBAN",
+            "name": "Govt Higher Secondary School Ramban"
+        },
+        {
+            "sno": "54",
+            "district": "RAMBAN",
+            "name": "CHC Gool"
+        },
+        {
+            "sno": "55",
+            "district": "RAMBAN",
+            "name": "JKPDC Barrack Dharmoud"
+        },
+        {
+            "sno": "56",
+            "district": "RAMBAN",
+            "name": "Community Hall Batroo"
+        },
+        {
+            "sno": "57",
+            "district": "RAMBAN",
+            "name": "PHC Khari"
+        },
+        {
+            "sno": "58",
+            "district": "REASI",
+            "name": "CHC Katra"
+        },
+        {
+            "sno": "59",
+            "district": "REASI",
+            "name": "Polytechnic College Building"
+        },
+        {
+            "sno": "60",
+            "district": "REASI",
+            "name": "Talwara"
+        },
+        {
+            "sno": "61",
+            "district": "REASI",
+            "name": "Kasturba Gandhi Vidyalaya, Arnas"
+        },
+        {
+            "sno": "62",
+            "district": "REASI",
+            "name": "Gujjar Bhakarwal Hostel, Mahore"
+        },
+        {
+            "sno": "63",
+            "district": "REASI",
+            "name": "Higher secondary School  Building , Gota"
+        },
+        {
+            "sno": "64",
+            "district": "REASI",
+            "name": "Durga College, Katra"
+        },
+        {
+            "sno": "65",
+            "district": "REASI",
+            "name": "NDMC Building, Kakryal"
+        },
+        {
+            "sno": "66",
+            "district": "REASI",
+            "name": "DH Reasi"
+        },
+        {
+            "sno": "67",
+            "district": "SAMBA",
+            "name": "ESIC Bari Brahmana"
+        },
+        {
+            "sno": "68",
+            "district": "SAMBA",
+            "name": "Shri Om Hospital"
+        },
+        {
+            "sno": "69",
+            "district": "SAMBA",
+            "name": "Krishtu Jyoti Hospital"
+        },
+        {
+            "sno": "70",
+            "district": "SAMBA",
+            "name": "New Life Hospital"
+        },
+        {
+            "sno": "71",
+            "district": "SAMBA",
+            "name": "Saint Joseph Hospital"
+        },
+        {
+            "sno": "72",
+            "district": "SAMBA",
+            "name": "JKEDI Building"
+        },
+        {
+            "sno": "73",
+            "district": "SAMBA",
+            "name": "CHC Ramgarh"
+        },
+        {
+            "sno": "74",
+            "district": "SAMBA",
+            "name": "AH Ghaghwal"
+        },
+        {
+            "sno": "75",
+            "district": "SAMBA",
+            "name": "Indoor stadium Arazi, samba"
+        },
+        {
+            "sno": "76",
+            "district": "SAMBA",
+            "name": "Bhargava Engg. College,supwal Samba"
+        },
+        {
+            "sno": "77",
+            "district": "UDHAMPUR",
+            "name": "AMT School and Hostel Bailey"
+        },
+        {
+            "sno": "78",
+            "district": "UDHAMPUR",
+            "name": "Govt. Degree College Women Udhampur"
+        },
+        {
+            "sno": "79",
+            "district": "UDHAMPUR",
+            "name": "Govt. Degree College Boys Udhampur"
+        },
+        {
+            "sno": "80",
+            "district": "UDHAMPUR",
+            "name": "ITI College, Udhampur"
+        },
+        {
+            "sno": "81",
+            "district": "UDHAMPUR",
+            "name": "Kalka College Udhampur"
+        },
+        {
+            "sno": "82",
+            "district": "UDHAMPUR",
+            "name": "JNV Juganoo"
+        },
+        {
+            "sno": "83",
+            "district": "UDHAMPUR",
+            "name": "Girls Hostel, GHSS, Ramnagar"
+        },
+        {
+            "sno": "84",
+            "district": "UDHAMPUR",
+            "name": "BSF, Barack  Juganoo"
+        },
+        {
+            "sno": "85",
+            "district": "UDHAMPUR",
+            "name": "KV Chenani"
+        },
+        {
+            "sno": "86",
+            "district": "RAJOURI",
+            "name": "Girls Hostel Maira"
+        },
+        {
+            "sno": "87",
+            "district": "RAJOURI",
+            "name": "Girls hostel Plangar,Thana Mandi"
+        },
+        {
+            "sno": "88",
+            "district": "RAJOURI",
+            "name": "MCH Hospital Rajouri"
+        },
+        {
+            "sno": "89",
+            "district": "RAJOURI",
+            "name": "Youth Hostel, Mini Sports Stadium, Rajo"
+        },
+        {
+            "sno": "90",
+            "district": "RAJOURI",
+            "name": "Girls Hostel Manjakote,"
+        },
+        {
+            "sno": "91",
+            "district": "RAJOURI",
+            "name": "SVS Banquet Hall Sunderbani"
+        },
+        {
+            "sno": "92",
+            "district": "RAJOURI",
+            "name": "Jawahar navodyala,Koteranka"
+        },
+        {
+            "sno": "93",
+            "district": "RAJOURI",
+            "name": "Girls Hostel Kalakot"
+        },
+        {
+            "sno": "94",
+            "district": "RAJOURI",
+            "name": "BGSBU Hostel, Rajouri"
+        },
+        {
+            "sno": "95",
+            "district": "RAJOURI",
+            "name": "Rajouri"
+        },
+        {
+            "sno": "96",
+            "district": "RAJOURI",
+            "name": "Sports Stadium Complex,Kheora,rajouri"
+        },
+        {
+            "sno": "97",
+            "district": "RAJOURI",
+            "name": "Tariq Paramedical School, Rajouri"
+        },
+        {
+            "sno": "98",
+            "district": "RAJOURI",
+            "name": "ajouri"
         }
     ]
 }

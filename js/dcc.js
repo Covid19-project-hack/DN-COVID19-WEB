@@ -30,7 +30,7 @@ $(document).ready(function(){
     $.ajax({
       'async': false,
       'global': false,
-      'url': "json/dch.json",
+      'url': "json/health_cares.json",
       'dataType': "json",
       'success': function(data) {
         json = data;
@@ -39,7 +39,7 @@ $(document).ready(function(){
     return json;
   })();
 
-tollnums =  testlabs.dch;
+tollnums =  testlabs.data;
 tollnums.forEach(element => { 
 listgrp.innerHTML+=
 `<div class="list-group-item list-group-item-action flex-column align-items-start " style="padding-bottom: 20px;">

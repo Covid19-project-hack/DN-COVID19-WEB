@@ -3,7 +3,7 @@ $(document).ready(function () {
     type: "GET",
     url: "https://api.covid19india.org/state_district_wise.json",
     success: function (returnedData) {
-      const district_data = returnedData["Odisha"].districtData;
+      const district_data = returnedData["Jammu and Kashmir"].districtData;
       populateData(district_data);
     },
   });
