@@ -21,7 +21,7 @@ $(document).ready(function(){
         }
         else{
             console.log('not logged in');
-            // window.location = "signinwithphno.html";
+            window.location = "signinwithphno.html";
         }
     });
     var listgrp = document.getElementById("lstgrp");
@@ -47,7 +47,7 @@ $(document).ready(function(){
     <h5><b>${element.name}</b></h5>
   </div>
   <br>
-  <p class="mb-1"><i class="fa fa-phone-alt" style="margin-right: 15px;"> </i>   ${element.phone_number}</p>
+  <p class="mb-1"><i class="fa fa-phone-alt" style="margin-right: 5px;"> </i> <span class="text-muted">Phone Number : </span>  ${element.phone_number}</p>
   </div>`;
   });   
   });
