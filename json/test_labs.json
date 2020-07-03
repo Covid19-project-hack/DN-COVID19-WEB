@@ -2,45 +2,9 @@
     "data": [
         {
             "sno": "1",
-            "name": "Govt Medical College, Jammu",
+            "name": "Shri Vinoba Bhave Civil Hospital, Silvassa",
             "type": "Government",
             "test_type": "RT-PCR"
-        },
-        {
-            "sno": "2",
-            "name": " Command Hospital NC Udhampur",
-            "type": "Government",
-            "test_type": "RT-PCR"
-        },
-        {
-            "sno": "3",
-            "name": " Sher i Kashmir Institute of Medical Sciences, Srinagar",
-            "type": "Government",
-            "test_type": "RT-PCR"
-        },
-        {
-            "sno": "4",
-            "name": " Govt Medical College, Srinagar",
-            "type": "Government",
-            "test_type": "RT-PCR"
-        },
-        {
-            "sno": "5",
-            "name": " Sheri Kashmir Institute of Medical Science Medical College, Bemina, Srinagar",
-            "type": "Government",
-            "test_type": "RT-PCR"
-        },
-        {
-            "sno": "6",
-            "name": " CSIR Indian Institute of Integrative Medicine IIIM , Jammu ",
-            "type": "Government",
-            "test_type": "RT-PCR"
-        },
-        {
-            "sno": "7",
-            "name": " Intermediate Reference Laboratory, Chest Disease Hospital, Dalgate, Srinagar",
-            "type": "Government",
-            "test_type": "CB NAAT"
         }
     ]
 }
